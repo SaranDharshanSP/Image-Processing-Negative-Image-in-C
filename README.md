@@ -41,12 +41,12 @@ This repository contains a simple C program for image processing using the STB I
 
 | Input Image | Output Image |
 |-------------|--------------|
-| [Input Image 1](Input%20Images/img1.jpg) | [Output Image 1](Output-Images/nimg1.jpg) |
-| [Input Image 2](Input-Images/img2.jpg) | [Output Image 2](Output-Images/nimg2.jpg) |
-| [Input Image 3](Input-Images/img3.jpg) | [Output Image 3](Output-Images/nimg3.jpg) |
-| [Input Image 4](Input-Images/img4.jpg) | [Output Image 4](Output-Images/nimg4.jpg) |
-| [Input Image 5](Input-Images/img5.jpg) | [Output Image 5](Output-Images/nimg5.jpg) |
-| [Input Image 6](Input-Images/img6.jpg) | [Output Image 6](Output-Images/nimg6.jpg) |
+| [Input Image 1](Input%20Images/img1.jpg) | [Output Image 1](Output%20Images/nimg1.jpg) |
+| [Input Image 2](Input%20Images/img2.jpg) | [Output Image 2](Output%20Images/nimg2.jpg) |
+| [Input Image 3](Input%20Images/img3.jpg) | [Output Image 3](Output%20Images/nimg3.jpg) |
+| [Input Image 4](Input%20Images/img4.jpg) | [Output Image 4](Output%20Images/nimg4.jpg) |
+| [Input Image 5](Input%20Images/img5.jpg) | [Output Image 5](Output%20Images/nimg5.jpg) |
+| [Input Image 6](Input%20Images/img6.jpg) | [Output Image 6](Output%20Images/nimg6.jpg) |
 
 ## Description
 
