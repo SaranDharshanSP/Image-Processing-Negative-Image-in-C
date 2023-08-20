@@ -41,7 +41,7 @@ This repository contains a simple C program for image processing using the STB I
 
 | Input Image | Output Image |
 |-------------|--------------|
-| [Input Image](link_to_input_image) | [Output Image](link_to_output_image) |
+| [Input Image]() | [Output Image]() |
 
 ## Description
 
@@ -59,8 +59,4 @@ This program demonstrates basic image processing using the STB Image library. Th
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
