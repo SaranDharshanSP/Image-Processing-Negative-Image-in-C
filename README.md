@@ -41,7 +41,12 @@ This repository contains a simple C program for image processing using the STB I
 
 | Input Image | Output Image |
 |-------------|--------------|
-| [Input Image]() | [Output Image]() |
+| [!Input Image](Input-Images/img1.jpg) | [!Output Image](Output-Images/nimg1.jpg) |
+| [!Input Image](Input-Images/img2.jpg) | [!Output Image](Output-Images/nimg2.jpg) |
+| [!Input Image](Input-Images/img3.jpg) | [!Output Image](Output-Images/nimg3.jpg) |
+| [!Input Image](Input-Images/img4.jpg) | [!Output Image](Output-Images/nimg4.jpg) |
+| [!Input Image](Input-Images/img5.jpg) | [!Output Image](Output-Images/nimg5.jpg) |
+| [!Input Image](Input-Images/img6.jpg) | [!Output Image](Output-Images/nimg6.jpg) |
 
 ## Description
 
